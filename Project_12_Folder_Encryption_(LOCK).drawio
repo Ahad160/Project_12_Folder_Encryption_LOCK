@@ -1,0 +1,135 @@
+<mxfile host="app.diagrams.net" modified="2023-10-18T15:24:01.874Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="9K2C9LKcRbzwL8wgGMYo" version="22.0.4" type="device">
+  <diagram name="Page-1" id="g_qGrdU7wV130XDD3STl">
+    <mxGraphModel dx="2625" dy="624" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="dm-9e3mzPO1Tn2iPLjJg-3" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="60" y="220" width="310" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="dm-9e3mzPO1Tn2iPLjJg-6" value="" style="group" vertex="1" connectable="0" parent="dm-9e3mzPO1Tn2iPLjJg-3">
+          <mxGeometry x="-60" width="310" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="dm-9e3mzPO1Tn2iPLjJg-1" value="Password&lt;sup&gt;&lt;font color=&quot;#ff0000&quot;&gt;*&lt;/font&gt;&lt;/sup&gt;" style="fillColor=none;strokeColor=none;html=1;fontSize=11;fontStyle=0;align=left;fontColor=#596780;fontStyle=1;fontSize=11" vertex="1" parent="dm-9e3mzPO1Tn2iPLjJg-6">
+          <mxGeometry width="240" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="dm-9e3mzPO1Tn2iPLjJg-2" value="&amp;#8226;&amp;#8226;&amp;#8226;&amp;#8226;&amp;#8226;&amp;#8226;&amp;#8226;&amp;#8226;" style="rounded=1;arcSize=9;align=left;spacingLeft=5;strokeColor=#4C9AFF;html=1;strokeWidth=2;fontSize=12" vertex="1" parent="dm-9e3mzPO1Tn2iPLjJg-6">
+          <mxGeometry y="25" width="310" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="dm-9e3mzPO1Tn2iPLjJg-5" value="&lt;h1&gt;&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 22px;&quot;&gt;Traditional Way&lt;/b&gt;&lt;/font&gt;&lt;/h1&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#d6b656;fillColor=#fff2cc;" vertex="1" parent="1">
+          <mxGeometry x="370" y="60" width="190" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="dm-9e3mzPO1Tn2iPLjJg-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dm-9e3mzPO1Tn2iPLjJg-7" target="dm-9e3mzPO1Tn2iPLjJg-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dm-9e3mzPO1Tn2iPLjJg-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dm-9e3mzPO1Tn2iPLjJg-2" target="dm-9e3mzPO1Tn2iPLjJg-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dm-9e3mzPO1Tn2iPLjJg-9" value="&lt;b&gt;&lt;font style=&quot;font-size: 22px;&quot;&gt;Lock Files&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#b85450;fillColor=#f8cecc;" vertex="1" parent="1">
+          <mxGeometry x="80" y="160" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dm-9e3mzPO1Tn2iPLjJg-11" value="&lt;b&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;Folder Unlocked&lt;/font&gt;&lt;/b&gt;" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.lock_unlocked" vertex="1" parent="1">
+          <mxGeometry x="1000" y="270" width="74" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="dm-9e3mzPO1Tn2iPLjJg-12" value="&lt;b&gt;&lt;font color=&quot;#ff0000&quot; style=&quot;font-size: 20px;&quot;&gt;Folder Locked&lt;/font&gt;&lt;/b&gt;" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/DarkGlass_Reworked/128x128/filesystems/folder_locked.png" vertex="1" parent="1">
+          <mxGeometry x="470" y="380" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="dm-9e3mzPO1Tn2iPLjJg-16" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="190" y="380" width="190" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="dm-9e3mzPO1Tn2iPLjJg-32" value="" style="group" vertex="1" connectable="0" parent="dm-9e3mzPO1Tn2iPLjJg-16">
+          <mxGeometry width="190" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="dm-9e3mzPO1Tn2iPLjJg-7" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/maternity-and-pregnancy-2/512/375_secure_protection_safe_system_data_data_management_organization-128.png" vertex="1" parent="dm-9e3mzPO1Tn2iPLjJg-32">
+          <mxGeometry x="30" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="dm-9e3mzPO1Tn2iPLjJg-15" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Folder Lock System&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="dm-9e3mzPO1Tn2iPLjJg-32">
+          <mxGeometry y="130" width="190" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dm-9e3mzPO1Tn2iPLjJg-17" value="&lt;b&gt;&lt;font style=&quot;font-size: 21px;&quot;&gt;Unlock FIles&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#82b366;fillColor=#d5e8d4;" vertex="1" parent="1">
+          <mxGeometry x="650" y="160" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dm-9e3mzPO1Tn2iPLjJg-19" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="560" y="232.5" width="310" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="dm-9e3mzPO1Tn2iPLjJg-20" value="Password&lt;sup&gt;&lt;font color=&quot;#ff0000&quot;&gt;*&lt;/font&gt;&lt;/sup&gt;" style="fillColor=none;strokeColor=none;html=1;fontSize=11;fontStyle=0;align=left;fontColor=#596780;fontStyle=1;fontSize=11" vertex="1" parent="dm-9e3mzPO1Tn2iPLjJg-19">
+          <mxGeometry width="240" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="dm-9e3mzPO1Tn2iPLjJg-21" value="&amp;#8226;&amp;#8226;&amp;#8226;&amp;#8226;&amp;#8226;&amp;#8226;&amp;#8226;&amp;#8226;" style="rounded=1;arcSize=9;align=left;spacingLeft=5;strokeColor=#4C9AFF;html=1;strokeWidth=2;fontSize=12" vertex="1" parent="dm-9e3mzPO1Tn2iPLjJg-19">
+          <mxGeometry y="25" width="310" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="dm-9e3mzPO1Tn2iPLjJg-34" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="690" y="380" width="190" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="dm-9e3mzPO1Tn2iPLjJg-35" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/maternity-and-pregnancy-2/512/375_secure_protection_safe_system_data_data_management_organization-128.png" vertex="1" parent="dm-9e3mzPO1Tn2iPLjJg-34">
+          <mxGeometry x="30" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="dm-9e3mzPO1Tn2iPLjJg-36" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Folder Lock System&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="dm-9e3mzPO1Tn2iPLjJg-34">
+          <mxGeometry y="130" width="190" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dm-9e3mzPO1Tn2iPLjJg-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dm-9e3mzPO1Tn2iPLjJg-21" target="dm-9e3mzPO1Tn2iPLjJg-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dm-9e3mzPO1Tn2iPLjJg-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dm-9e3mzPO1Tn2iPLjJg-35" target="dm-9e3mzPO1Tn2iPLjJg-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dm-9e3mzPO1Tn2iPLjJg-71" value="&lt;h1&gt;&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 22px;&quot;&gt;Traditional Way&lt;/b&gt;&lt;/font&gt;&lt;/h1&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#d6b656;fillColor=#fff2cc;" vertex="1" parent="1">
+          <mxGeometry x="1620" y="40" width="190" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="dm-9e3mzPO1Tn2iPLjJg-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="dm-9e3mzPO1Tn2iPLjJg-79">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1405.090909090908" y="270" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dm-9e3mzPO1Tn2iPLjJg-74" value="&lt;b&gt;&lt;font style=&quot;font-size: 22px;&quot;&gt;Lock Files&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#b85450;fillColor=#f8cecc;" vertex="1" parent="1">
+          <mxGeometry x="1330" y="140" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dm-9e3mzPO1Tn2iPLjJg-75" value="&lt;b&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;Folder Unlocked&lt;/font&gt;&lt;/b&gt;" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.lock_unlocked" vertex="1" parent="1">
+          <mxGeometry x="2250" y="250" width="74" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="dm-9e3mzPO1Tn2iPLjJg-76" value="&lt;b&gt;&lt;font color=&quot;#ff0000&quot; style=&quot;font-size: 20px;&quot;&gt;Folder Locked&lt;/font&gt;&lt;/b&gt;" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/DarkGlass_Reworked/128x128/filesystems/folder_locked.png" vertex="1" parent="1">
+          <mxGeometry x="1720" y="360" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="dm-9e3mzPO1Tn2iPLjJg-77" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1440" y="360" width="190" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="dm-9e3mzPO1Tn2iPLjJg-78" value="" style="group" vertex="1" connectable="0" parent="dm-9e3mzPO1Tn2iPLjJg-77">
+          <mxGeometry width="190" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="dm-9e3mzPO1Tn2iPLjJg-79" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/maternity-and-pregnancy-2/512/375_secure_protection_safe_system_data_data_management_organization-128.png" vertex="1" parent="dm-9e3mzPO1Tn2iPLjJg-78">
+          <mxGeometry x="30" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="dm-9e3mzPO1Tn2iPLjJg-80" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Folder Lock System&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="dm-9e3mzPO1Tn2iPLjJg-78">
+          <mxGeometry y="130" width="190" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dm-9e3mzPO1Tn2iPLjJg-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dm-9e3mzPO1Tn2iPLjJg-79" target="dm-9e3mzPO1Tn2iPLjJg-76">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dm-9e3mzPO1Tn2iPLjJg-81" value="&lt;b&gt;&lt;font style=&quot;font-size: 21px;&quot;&gt;Unlock FIles&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#82b366;fillColor=#d5e8d4;" vertex="1" parent="1">
+          <mxGeometry x="1900" y="140" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dm-9e3mzPO1Tn2iPLjJg-85" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1940.01" y="360" width="190" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="dm-9e3mzPO1Tn2iPLjJg-86" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/maternity-and-pregnancy-2/512/375_secure_protection_safe_system_data_data_management_organization-128.png" vertex="1" parent="dm-9e3mzPO1Tn2iPLjJg-85">
+          <mxGeometry x="30" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="dm-9e3mzPO1Tn2iPLjJg-87" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Folder Lock System&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="dm-9e3mzPO1Tn2iPLjJg-85">
+          <mxGeometry y="130" width="190" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dm-9e3mzPO1Tn2iPLjJg-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dm-9e3mzPO1Tn2iPLjJg-86" target="dm-9e3mzPO1Tn2iPLjJg-75">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dm-9e3mzPO1Tn2iPLjJg-92" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Face Recognition&lt;/font&gt;&lt;/b&gt;" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/simple-lines-filled/32/13_Complete_Human_Head_User_Done_Face_Man-128.png" vertex="1" parent="1">
+          <mxGeometry x="1300" y="212.5" width="107.5" height="107.5" as="geometry" />
+        </mxCell>
+        <mxCell id="dm-9e3mzPO1Tn2iPLjJg-95" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dm-9e3mzPO1Tn2iPLjJg-94" target="dm-9e3mzPO1Tn2iPLjJg-86">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dm-9e3mzPO1Tn2iPLjJg-94" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Face Recognition&lt;/font&gt;&lt;/b&gt;" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/simple-lines-filled/32/13_Complete_Human_Head_User_Done_Face_Man-128.png" vertex="1" parent="1">
+          <mxGeometry x="1990.63" y="201.25" width="88.75" height="88.75" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
